@@ -62,5 +62,5 @@ class HostsWidget:
         
 root = Tk()
 my_gui = HostsWidget(root)
-root.title("HOSTS TOOGLER")
+root.title("TOGGLE HOSTS")
 root.mainloop()
