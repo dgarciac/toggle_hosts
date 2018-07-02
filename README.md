@@ -6,7 +6,7 @@ Prerequisites:
 
 ```bash
 sudo apt install python3-tk
-git clone git@github.com:dgarciac/toggle_hosts.git
+git clone https://github.com/dgarciac/toggle_hosts.git
 cd toggle_hosts
 chmod +x toggle_hosts.sh
 ```
