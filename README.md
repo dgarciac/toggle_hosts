@@ -2,18 +2,18 @@
 Comment and uncomment /etc/hosts lines, a checkbox per domain name asigned to 127.0.0.1
 Check a box to comment, uncheck to uncomment
 
-Prerequisites:
+Install:
 
 ```bash
-sudo apt install python3-tk
 git clone https://github.com/dgarciac/toggle_hosts.git
 cd toggle_hosts
-chmod +x toggle_hosts.sh
+chmod +x install.sh
+./install.sh
 ```
 
 Run:
 
-```bash
-./toggle_hosts.sh
+```
+toggle_hosts
 ```
 
