@@ -1,2 +1,2 @@
 #! /bin/bash
-sudo python3 toggle_hosts.py &
+sudo python3 /home/daniel-garcia/dev/toggle_hosts/toggle_hosts.py &
